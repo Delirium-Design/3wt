@@ -197,6 +197,11 @@ header {
     }
     @media (min-width: 768px) {
         min-height: 100%;
+        #logo-container{
+            // padding-top: 35rem;
+            // margin-top: 5%;
+            width: 50%;
+        }
         .header-content {
             position: absolute;
             top: 50%;
